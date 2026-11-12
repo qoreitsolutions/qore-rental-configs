@@ -1,0 +1,7 @@
+{
+    "expiry_time":  "2026-11-12 19:22:31",
+    "passcode":  "admin123",
+    "blocked_users":  [
+                          "user"
+                      ]
+}
